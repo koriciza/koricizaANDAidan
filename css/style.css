@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(199, 199, 193);
+    font-family: Arial, Helvetica, sans-serif;
+}
+main{
+    align-items: center;
+    display: block;
+    justify-content: center;
+}
+
+header{
+    align-items: center;
+    text-align: center;
+    height: 20vh;
+    padding-top: 25px;
+}
+
+#img-div{
+    width: 100vw;
+    background-color: white;
+}
+
+#img-div #image{
+    align-items: center;
+    background-color: white;
+    width: 80%;
+    height: 80%;
+}
+
+.add {
+    width: 60vw;
+    text-align: left;
+    position: relative;
+    margin: auto;
+}
+
+.ul-add .li-add{
+    line-height: 2;
+}
